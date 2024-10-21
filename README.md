@@ -1,2 +1,2 @@
-# Solar MHDo Polar Vortex
+# Solar MHD Polar Vortex
 Data archive for publication
